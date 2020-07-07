@@ -4,6 +4,8 @@
 
 </p>
 
+Run the ```train_mask_detector.py``` to accept the input dataset and fine-tune MobileNetV2 upon it to create the resulting serialized ```helmet_detector.model``` classification model.
+
 Open up a terminal, and execute the following command:
 
 ```
