@@ -3,6 +3,7 @@
 <br/><b><a href="https://rishiraj-acharya.github.io/Helmet-Detector/">https://rishiraj-acharya.github.io/Helmet-Detector/</a></b><br/><br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> <br/><img alt="GitHub License GPL-3.0" src="https://img.shields.io/github/license/rishiraj-acharya/Helmet-Detector?style=for-the-badge&labelColor=black&logo=github"> <a href="https://twitter.com/RishirajAcharya"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RishirajAcharya?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@RishirajAcharya"></a><br/><br/>Using Keras and TensorFlow to train a classifier to automatically detect whether a person is wearing a helmet or not by fine-tuning the <a href="https://arxiv.org/abs/1801.04381">MobileNet V2</a> architecture.
 
 </p>
+
 Open up a terminal, and execute the following command:
 
 ```
